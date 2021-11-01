@@ -1,0 +1,23 @@
+{
+    "frontend": {
+        "meta": {
+            "title": "Tyche",
+            "charset": "UTF-8"
+        },
+        "pages": {
+            "app": {
+                "index": "app.html"
+            }
+        }
+    },
+    "backend": {
+        "port": 3000,
+        "routes": {
+            "/": {
+                "dynamic": true,
+                "handler": "handler.js",
+                "page": "app"
+            }
+        }
+    }
+}

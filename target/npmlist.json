@@ -1,0 +1,1 @@
+{"version":"1.0.14","name":"tyche-js","dependencies":{"express":{"version":"4.17.1"},"node-html-parser":{"version":"5.1.0"},"open":{"version":"8.4.0"},"ws":{"version":"8.2.3"}}}

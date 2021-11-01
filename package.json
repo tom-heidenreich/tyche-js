@@ -1,0 +1,13 @@
+{
+    "name": "tyche-js",
+    "version": "1.0.15",
+    "bin": {
+        "tyche": "bin/tyche-setup.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "node-html-parser": "^5.1.0",
+        "open": "^8.4.0",
+        "ws": "^8.2.3"
+    }
+}
