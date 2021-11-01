@@ -9,5 +9,9 @@
         "node-html-parser": "^5.1.0",
         "open": "^8.4.0",
         "ws": "^8.2.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/polycloud-dev/tyche-js.git"
     }
 }
